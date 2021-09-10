@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Epilogue:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Fira+Code:300,regular,500,600,700);
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Epilogue", sans-serif;
+}
+*:focus {
+  outline: none !important;
+}
+.Fira {
+  font-family: "Fira Code", sans-serif;
+}
+#root,
+html {
+  overflow-x: hidden !important;
+}
+body {
+  background: #bcccff;
+  background-size: cover;
+  background-position: center;
+}
+.pre {
+  white-space: pre-line;
+}
+.twitterHighlight {
+  color: #2298e1;
+}
