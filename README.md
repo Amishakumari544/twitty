@@ -29,3 +29,13 @@ npm run dev
 ```
 
 🌟 You are all set!
+
+
+## 💻 Built with
+
+- [Next](https://nextjs.org/)
+- [Material UI](http://material-ui.com/): for styling and Icons
+- [Animate.css](https://animate.style/): for smooth Animations
+- [Emoji Mart](https://www.npmjs.com/package/emoji-mart): for emojis
+- [react-hot-toast](https://react-hot-toast.com/): for toast
+- [react-icons](https://react-icons.github.io/react-icons/): for icons
