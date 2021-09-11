@@ -13,6 +13,7 @@ import ModalPopup from "../components/Modal";
 
 // animate.css
 import "animate.css";
+import Header from "../components/Header";
 
 const Home = () => {
   // modal
@@ -82,6 +83,7 @@ const Home = () => {
         />
       </div>
       <div className="w-full lg:w-5/12 md:w-5/12 xl:w-5/12 p-7 py-10 h-6/12 lg:h-full xl:h-full flex items-center lg:items-end xl:items-end justify-center flex-col">
+      <Header />
        <img src="/assets/saly-7.png" alt="" />
       </div>
     </div>

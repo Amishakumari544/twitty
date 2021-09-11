@@ -28,6 +28,7 @@ const ModalPopup = ({ open, setOpen, twitterIntent }) => {
         <div className="bg-white p-5 rounded-xl shadow-md w-[45%]">
           <h1 className="text-2xl font-bold">Code Copied</h1>
           <p className="text-[#555] mb-3">
+             
             You have copied your twitter intent code to your clipboard. You can
             now start using it in your site. Here is quick example ✌️
           </p>
